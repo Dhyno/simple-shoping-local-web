@@ -1,6 +1,6 @@
 # simple shoping local web
 ## inspiration
-  navbar from
+  navbar from [saluthdev](https://github.com/salluthdev/sidebar_menu)
 ## demo
   [click here](https://dhyno.github.io/simple-shoping-local-web/)
   this is my first web practice with some of feature
