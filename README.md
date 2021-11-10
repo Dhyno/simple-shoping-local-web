@@ -1,1 +1,2 @@
-# simple-shoping-local-web
+# simple shoping local web
+## inspiration
