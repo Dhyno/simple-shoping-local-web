@@ -10,6 +10,6 @@
   this is my first web practice with some of feature
 ## ppreview
   <img src="asset/image/result1.png">
-   <img src="asset/image/result2.png">
+   <img src="asset/image/resul2.png">
     <img src="asset/image/result3.png">
      <img src="asset/image/resul4.png">
