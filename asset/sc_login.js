@@ -22,7 +22,7 @@ click_burger.addEventListener('click',function(){
         burger.style.opacity="1";
     }
     else{
-        burger.style.opacity="";
+        burger.style.opacity="0";
     }
 });
 
